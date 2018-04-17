@@ -1,4 +1,4 @@
-package com.Innosaur.Humpty-Dumpty;
+package com.Innosaur.Humpty;
 
 /**
  * Hello world!
