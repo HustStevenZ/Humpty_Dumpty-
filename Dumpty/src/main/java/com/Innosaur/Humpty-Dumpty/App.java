@@ -1,4 +1,4 @@
-package com.innosaur.humty-dumpty;
+package com.Innosaur.Humpty-Dumpty;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package com.innosaur.humty-dumpty;
+package com.Innosaur.Humpty-Dumpty;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
